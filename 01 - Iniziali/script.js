@@ -3,6 +3,12 @@
 const names = ["Anna", "Luca", "Marco", "Adele", "Giovanni", "Alessandra"];
 
 // Dichiara la funzione qui.
+/**
+ * Description
+ * @param {array} array
+ * @returns {array}
+ */
+
 const inizialiArray = (array) => {
   let returnArray = [];
 
